@@ -26,6 +26,8 @@ Highly motivated, self-starting developer seeking to launch a career building we
 * 🖥️  See my portfolio at [josh.com](http://josh-portofolio.netlify.app)
 * ✉️  You can contact me at [manchejoshnavi1927@gmail.com](mailto:manchejoshnavi1927@gmail.com)
 * 🧠  I'm learning everything JavaScript
+* 😄 Pronouns: she/her
+
 
 ### Skills
 
