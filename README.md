@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Joshnavi Manche
 ================================
 
-Frontend Developer and Designer
+Data & Ai Engineer
 --------------------------
 
 Highly motivated, self-starting developer seeking to launch a career building web applications and services. Familiar with development and deployment process for many web-based technologies.
